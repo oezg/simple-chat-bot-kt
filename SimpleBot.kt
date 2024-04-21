@@ -3,10 +3,10 @@ package bot
 import java.util.Scanner
 
 
-val scanner = Scanner(System.`in`) // Do not change this line
+val scanner = Scanner(System.`in`)
 
 fun main() {
-    greet("Aida", "2024") // change it as you need
+    greet("Aida", "2024")
     remindName()
     guessAge()
     count()
@@ -62,5 +62,5 @@ fun test() {
 }
 
 fun end() {
-    println("Congratulations, have a nice day!") // Do not change this text
+    println("Congratulations, have a nice day!")
 }
